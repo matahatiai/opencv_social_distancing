@@ -2,4 +2,4 @@
 Social distancing alert - OpenCV
 
 # RESULT
-<img src="" />
+<img src="https://github.com/matahatiai/opencv_social_distancing/blob/master/example.png?raw=true" />
